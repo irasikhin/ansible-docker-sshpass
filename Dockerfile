@@ -1,3 +1,3 @@
 FROM cytopia/ansible:latest-tools
 
-RUN apk add sshpassh
+RUN apk add sshpass
